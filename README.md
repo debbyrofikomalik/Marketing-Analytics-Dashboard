@@ -55,4 +55,4 @@ For inquiries or collaborations, feel free to reach out:
 ---
 
 ### 🏷️ Tags  
-Big Data • SQL • Looker Studio • Analytics • Kimia Farma • Rakamin • Pharmaceutical Industry
+Power BI • Digital Marketing • Conversion Rate • Analytics • E-Commerce • Dashboard • Business Intelligence
