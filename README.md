@@ -8,17 +8,9 @@ This project focuses on analyzing a decline in Conversion Rate (CR) for a fashio
 
 ## 📊 Project Highlights
 - Performed comprehensive data understanding and defined key marketing funnel metrics (Awareness → Interest → Desire → Action).  
-- Conducted deep-dive performance analysis by:
-  • Location  
-  • Product category  
-  • Ad campaign  
-  to identify segments contributing to CR decline.  
+- Conducted deep-dive performance analysis by location, product category, and ad campaign to identify segments contributing to CR decline.  
 - Evaluated user behavior trends (CTR, product page views, purchase patterns) and mapped them to actionable insights.  
-- Designed and delivered a multi-layered Power BI dashboard, including:  
-  • Executive overview  
-  • Regional insights  
-  • Product analysis  
-  • Trendlines  
+- Designed and delivered a multi-layered Power BI dashboard, including executive overview, regional insights, product analysis, and trendlines  
 - Generated strategic recommendations for improving CR by 3–5% in the next quarter.
 
 ---
